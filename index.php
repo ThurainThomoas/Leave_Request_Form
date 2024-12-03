@@ -15,7 +15,7 @@
 </head>
 <body>
     <h3>Leave Request Form</h3>
-    <form action="" method="">
+    <form action="submit_leave.php" method="POST">
         <label for="employee_name">Employee Name</label>
             <input type="text" id="employee_name" name="employee_name">
             
